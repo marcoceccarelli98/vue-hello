@@ -13,3 +13,7 @@ body {
     font-size: 100px;
     margin: 50px;
 }
+
+.imgClass {
+    width: 500px;
+}
