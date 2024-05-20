@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    display: flex;
+}
+
+#app {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+.titleClass {
+    font-size: 100px;
+    margin: 50px;
+}
